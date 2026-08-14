@@ -1,4 +1,4 @@
-# DNA-Sequence-Analyzer
+# DNA-Sequence-Analyzer / version 1.0
 Python tool for basic DNA analysis.
 
 ##Features
@@ -12,7 +12,7 @@ Python tool for basic DNA analysis.
 - Recese complement sequence
 - Sequence validation
 
-##Planned for future addons
+##Planned future updates
 
 - GC content by region
 - Codon analysis
