@@ -23,7 +23,7 @@ if valid:   # Sequence Validation segment continues with analysis.
     print("C:", seq.count("C"), "-",round( seq.count("C") / len(seq) * 100,2), "%")
     print()
 
-    print("=== GC Content ===") # GC content segment counts the percentages og G and C bases in the sequence.
+    print("=== GC Content ===") # GC content segment counts the percentages of G and C bases in the sequence.
     gc_count = seq.count("G") + seq.count("C")
     gc_content = gc_count / len(seq) * 100
     print("GC content: ",round(gc_content,2), "%")
